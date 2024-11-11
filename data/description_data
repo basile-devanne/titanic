@@ -1,0 +1,40 @@
+PassengerId : Identifiant unique pour chaque passager.
+
+
+Survived : Indique si le passager a survécu (1) ou non (0).
+
+
+Pclass : Classe du billet du passager :
+        1 = Première classe (la plus chère),
+        2 = Deuxième classe,
+        3 = Troisième classe (la moins chère).
+
+
+Name : Nom complet du passager.
+
+
+Sex : Sexe du passager (male pour homme, female pour femme).
+
+
+Age : Âge du passager (en années). Certains âges peuvent être manquants.
+
+
+SibSp : Nombre de frères, sœurs ou conjoint(e)s du passager présents à bord.
+
+
+Parch : Nombre de parents ou enfants du passager présents à bord.
+
+
+Ticket : Numéro de billet du passager.
+
+
+Fare : Prix du billet payé par le passager (en livres sterling).
+
+
+Cabin : Numéro de la cabine du passager. Ce champ peut être vide pour certains passagers.
+
+
+Embarked : Port d’embarquement du passager :
+        C = Cherbourg (France),
+        Q = Queenstown (Irlande),
+        S = Southampton (Angleterre).
